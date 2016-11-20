@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.tpg.receipes.ui.secure;
+package com.tpg.recipes.ui.secure;
 
 import java.util.Arrays;
 
